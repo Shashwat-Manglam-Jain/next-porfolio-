@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://shashwat-manglam-jain.netlify.app
+
+# Sitemaps
+Sitemap: https://shashwat-manglam-jain.netlify.app/sitemap.xml
