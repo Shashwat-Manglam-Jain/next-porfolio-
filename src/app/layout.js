@@ -4,7 +4,7 @@ import "./globals.css";
 // Correctly load fonts using next/font/google for better optimization
 const caveat = Caveat({ subsets: ["latin"], weight: ["700"], display: "swap" });
 const handjet = Handjet({ subsets: ["latin"], weight: ["100", "900"], display: "swap" });
-const poppins = Poppins({ subsets: ["latin"], weight: ["100","400"], display: "swap" });
+const poppins = Poppins({ subsets: ["latin"], weight: ["400"], display: "swap" });
 
 export const metadata = {
   title: "Shashwat Manglam Jain - AI Developer & Data Scientist",
